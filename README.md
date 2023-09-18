@@ -1,5 +1,5 @@
 
-# TO BE FIXED and updated
+# TO BE FIXED and updated --
 
 Google Project Management Coursera course
 
@@ -40,3 +40,7 @@ OKRs, engagement letter, WBS, RACI, project charter, risk register, retrospectiv
 
 
 RACI Matrix
+
+
+
+** add pictures of capstone PPT & section of email from client ***
