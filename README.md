@@ -13,7 +13,7 @@ For the **Capstone project** I worked with the *Growth Team at The Wikimedia Fou
 <h1 align="center"><img width="625" alt="image" src="https://github.com/ellaowens/Project-Manangement-Capstone/assets/114102710/134745b1-8f2c-46b6-9853-9af77ddacc83"></h1>
 
 
-My team and I also worked together to create documents such as :
+My team and I also worked together to create documents such as:
 - Engagement Letter
 - OKRs
 - WBS
